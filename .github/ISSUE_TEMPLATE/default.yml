@@ -1,10 +1,16 @@
 name: Default
-description: default issue template for Rimo
+description: you can choose if there is no suitable one
 labels: []
+projects: ["rimoapp/34"]
 assignees: []
-body: |
-  ## Why
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: "Context"
+      value: |
+        ## Why
 
 
 
-  ## What
+        ## What
