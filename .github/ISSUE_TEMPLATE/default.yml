@@ -1,0 +1,16 @@
+name: Default
+description: you can choose if there is no suitable one
+labels: []
+projects: ["rimoapp/34"]
+assignees: []
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: "Context"
+      value: |
+        ## Why
+
+
+
+        ## What
