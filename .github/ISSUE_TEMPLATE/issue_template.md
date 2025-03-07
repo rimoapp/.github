@@ -1,5 +1,5 @@
 ---
-name: Default Issue
+name: Default
 about: Default issue template for Rimo
 ---
 
